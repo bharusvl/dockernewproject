@@ -26,6 +26,8 @@ systemctl status docker
 docker swarm init --advertise-addr 172.31.85.110
 docker node ls
 
+hi
+
 
 2. INSTALLING JENKINS (MASTER)
 
